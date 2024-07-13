@@ -1,4 +1,4 @@
-# Copper-Modelling-Project
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/0011a95e-9e7c-4637-93c4-9443c39edced"># Copper-Modelling-Project
 
 **Project Description**
 
@@ -35,3 +35,9 @@ Evaluate models using appropriate metrics and optimize hyperparameters using cro
 
 Create an interactive page to input column values and get predictions for Selling_Price or Status.
 Use the pickle module to save and load models, encoders, and scalers.
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/2dfb864f-8d8f-4462-8329-1d71747d305d">
+
+
+
+
+
