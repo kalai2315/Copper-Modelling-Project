@@ -40,6 +40,11 @@ Use the pickle module to save and load models, encoders, and scalers.
 
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/2dfb864f-8d8f-4462-8329-1d71747d305d">
 
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/e04e2631-947f-4d4f-a763-6e124009dbb4">
+
+<img width="703" alt="image" src="https://github.com/user-attachments/assets/700aff28-3784-4b9f-a491-26d8aa6110e9">
+
+
 
 
 
