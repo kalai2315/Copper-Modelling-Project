@@ -1,3 +1,5 @@
+<img width="548" alt="copper model ppt" src="https://github.com/user-attachments/assets/d08615c1-a52f-49e2-8e99-f41aee8070ab">
+
 
 
 **Project Description**
